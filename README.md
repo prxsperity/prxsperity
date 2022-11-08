@@ -13,9 +13,7 @@
   <tr>   
     <td>  
       <div >    
-        <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />&nbsp;&nbsp;     
-        <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />&nbsp;&nbsp;&nbsp;       
-        <img src="https://brandslogos.com/wp-content/uploads/images/c-logo.png" alt="C++" width="50" height="50" />&nbsp;&nbsp;&nbsp;       
+        <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />&nbsp;&nbsp;               
         <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="36" height="36"/>      
       </div>  
     </td> 
