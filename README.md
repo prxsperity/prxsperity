@@ -3,7 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prxsperity&show_icons=true&line_height=33&count_private=true&theme=dark" height="170"a />
 </div>
 <div id="header" align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prxsperity&&hide=cmake&langs_count=5&line_height=40&theme=dark" height="150" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prxsperity&theme=dark" height="170"/> 
   <br><br> 
   <img src="https://komarev.com/ghpvc/?username=prxsperity&color=orange" />
