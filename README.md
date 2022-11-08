@@ -5,7 +5,7 @@
 <div id="header" align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prxsperity&theme=dark" height="170"/> 
   <br><br> 
-  <img src="https://komarev.com/ghpvc/?username=prxsperity&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=prxsperity&color=blue" />
 </div>
 <table> 
   <h1 style="text-align:center;">i'm learning</h1>
